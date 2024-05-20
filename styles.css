@@ -1,0 +1,28 @@
+body {
+    margin: 0px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container1 {
+    display: flex;
+    flex-wrap: wrap;
+    height: 600px;
+    width: 600px;
+    border-style: solid;
+    border-color: black;}
+
+.square {
+    width: 37.5px;
+    height: 37.5px;
+    border: 1px solid #ccc;
+    background-color: white;
+    box-sizing: border-box;}
+
+    .square2 {
+    border: 1px solid #ccc;
+    background-color: white;
+    box-sizing: border-box;}
